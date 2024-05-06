@@ -1,4 +1,10 @@
 [
     "_init.js",
-    "canvas/uiCanvas.js"
+    "canvas/uiCanvas.js",
+    "canvas/button.js",
+    "canvas/checkBox.js",
+    "canvas/selectionBox.js",
+    "canvas/appendedText.js",
+    "canvas/hoverText.js",
+    "canvas/progressBar.js"
 ]
