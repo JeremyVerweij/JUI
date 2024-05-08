@@ -1,0 +1,8 @@
+{
+    "name": "JUI",
+    "html": true,
+    "node": false,
+    "versions": [
+        "v1.00"
+    ]
+}
