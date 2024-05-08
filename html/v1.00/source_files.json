@@ -1,5 +1,5 @@
 [
-    "_init.js",
+    "init.js",
     "canvas/uiCanvas.js",
     "canvas/button.js",
     "canvas/checkBox.js",
